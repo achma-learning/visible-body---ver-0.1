@@ -6,3 +6,5 @@ CIM 11
 # https://www.nlm.nih.gov/research/visible/visible_human.html
 # https://caskanatomy.info/browser/index.html
 # http://nlm.nih.gov/research/visible/visible_gallery.html
+#---------------------------------------------------------------
+https://addons.mozilla.org/en-US/firefox/addon/downthemall/
